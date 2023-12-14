@@ -6,7 +6,7 @@
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "bump": "bumpp -r"
+    "bumpp": "bumpp -r"
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
